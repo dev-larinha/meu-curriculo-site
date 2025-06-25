@@ -4,11 +4,7 @@ Este é um projeto de currículo digital criado em HTML, CSS e JavaScript para a
 
 ## 🌐 Acesse o projeto
 
-👉 [Clique aqui para visualizar online](https://dev-larinha.github.io/meu-curriculo-site)
-
-> (💡 Se ainda não estiver funcionando, posso te ajudar a ativar o GitHub Pages.)
-
----
+👉 file:///Users/Larinha/Documents/sites%20/curriculo.html---
 
 ## 📌 Funcionalidades
 
