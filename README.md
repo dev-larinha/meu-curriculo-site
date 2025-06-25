@@ -21,3 +21,13 @@ Acesse o site publicado pelo GitHub Pages:
 ## 💻 Como rodar localmente
 
 1. Clone este repositório:
+2. 
+3. Abra o arquivo `index.html` no seu navegador.
+
+## ✍️ Autora
+
+Lara Vieira  
+
+
+---
+
